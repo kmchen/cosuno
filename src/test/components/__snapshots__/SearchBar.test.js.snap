@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBar component should render SearchBar component 1`] = `
+<div
+  className="makeStyles-heroContent-3"
+>
+  <WithStyles(ForwardRef(Container))
+    maxWidth="sm"
+  >
+    <div
+      className="makeStyles-root-1"
+    >
+      <Filters
+        handleFilter={[Function]}
+        stateFilters={
+          Object {
+            "construction": false,
+            "ecommerce": false,
+            "fintech": false,
+            "software": false,
+          }
+        }
+      />
+      <Autosuggest
+        alwaysRenderSuggestions={false}
+        focusInputOnSuggestionClick={true}
+        getSuggestionValue={[Function]}
+        highlightFirstSuggestion={false}
+        id="1"
+        inputProps={
+          Object {
+            "classes": Object {
+              "container": "makeStyles-container-2",
+              "divider": "makeStyles-divider-7",
+              "heroContent": "makeStyles-heroContent-3",
+              "root": "makeStyles-root-1",
+              "suggestion": "makeStyles-suggestion-5",
+              "suggestionsContainerOpen": "makeStyles-suggestionsContainerOpen-4",
+              "suggestionsList": "makeStyles-suggestionsList-6",
+            },
+            "id": "react-autosuggest-simple",
+            "label": "Search for a company?",
+            "onChange": [Function],
+            "placeholder": "try Cosuno?",
+            "value": "",
+          }
+        }
+        multiSection={false}
+        onSuggestionSelected={[Function]}
+        onSuggestionsClearRequested={[Function]}
+        onSuggestionsFetchRequested={[Function]}
+        renderInputComponent={[Function]}
+        renderSuggestion={[Function]}
+        renderSuggestionsContainer={[Function]}
+        shouldRenderSuggestions={[Function]}
+        suggestions={Array []}
+        theme={
+          Object {
+            "container": "makeStyles-container-2",
+            "suggestion": "makeStyles-suggestion-5",
+            "suggestionsContainerOpen": "makeStyles-suggestionsContainerOpen-4",
+            "suggestionsList": "makeStyles-suggestionsList-6",
+          }
+        }
+      />
+    </div>
+  </WithStyles(ForwardRef(Container))>
+</div>
+`;

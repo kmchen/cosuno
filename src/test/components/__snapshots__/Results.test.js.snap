@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Results component should render Results component 1`] = `
+<WithStyles(ForwardRef(Container))
+  className="makeStyles-cardGrid-1"
+  maxWidth="sm"
+>
+  <WithStyles(ForwardRef(Grid))
+    container={true}
+    spacing={4}
+  >
+    <WithStyles(ForwardRef(Grid))
+      item={true}
+      key="AUTO1 Group"
+      md={4}
+      sm={6}
+      xs={12}
+    >
+      <WithStyles(ForwardRef(Card))
+        className="makeStyles-card-2"
+      >
+        <WithStyles(ForwardRef(CardMedia))
+          className="makeStyles-cardMedia-3"
+          image="https://source.unsplash.com/random"
+          title="Image title"
+        />
+        <WithStyles(ForwardRef(CardContent))
+          className="makeStyles-cardContent-4"
+        >
+          <WithStyles(ForwardRef(Typography))
+            component="h2"
+            gutterBottom={true}
+            variant="h5"
+          >
+            AUTO1 Group
+          </WithStyles(ForwardRef(Typography))>
+          <WithStyles(ForwardRef(Typography))>
+            City:
+            Hamburg
+          </WithStyles(ForwardRef(Typography))>
+          <WithStyles(ForwardRef(Typography))>
+            Specialty:
+            ecommerce, software
+          </WithStyles(ForwardRef(Typography))>
+        </WithStyles(ForwardRef(CardContent))>
+      </WithStyles(ForwardRef(Card))>
+    </WithStyles(ForwardRef(Grid))>
+  </WithStyles(ForwardRef(Grid))>
+</WithStyles(ForwardRef(Container))>
+`;

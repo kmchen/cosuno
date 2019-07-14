@@ -1,0 +1,345 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component should render App component 1`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <CssBaseline />
+  <NavBar />
+  <main>
+    <SearchBar
+      fuse={
+        e {
+          "list": Object {
+            "company": Array [
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Hamburg",
+                "name": "AUTO1 Group",
+                "specialty": Array [
+                  "ecommerce",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Frankfurt",
+                "name": "Blacklane",
+                "specialty": Array [
+                  "fintech",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Munich",
+                "name": "Blinkist",
+                "specialty": Array [
+                  "fintech",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Berlin",
+                "name": "Bonify",
+                "specialty": Array [
+                  "fintech",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Cologne",
+                "name": "Camunda",
+                "specialty": Array [
+                  "ecommerce",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Munich",
+                "name": "ChartMogul",
+                "specialty": Array [
+                  "ecommerce",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Cologne",
+                "name": "Contentful",
+                "specialty": Array [
+                  "Software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Berlin",
+                "name": "Cosuno",
+                "specialty": Array [
+                  "construction",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Hamburg",
+                "name": "Coya",
+                "specialty": Array [
+                  "ecommerce",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Munich",
+                "name": "Crate.io",
+                "specialty": Array [
+                  "fintech",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Munich",
+                "name": "Dalia Research",
+                "specialty": Array [
+                  "ecommerce",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Frankfurt",
+                "name": "door2door",
+                "specialty": Array [
+                  "fintech",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Cologne",
+                "name": "Eyeo",
+                "specialty": Array [
+                  "ecommerce",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Frankfurt",
+                "name": "FreightHub",
+                "specialty": Array [
+                  "fintech",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Frankfurt",
+                "name": "German Autolabs",
+                "specialty": Array [
+                  "fintech",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Dusseldorf",
+                "name": "GetYourGuide",
+                "specialty": Array [
+                  "fintech",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Frankfurt",
+                "name": "GoEuro",
+                "specialty": Array [
+                  "fintech",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Hamburg",
+                "name": "Helping",
+                "specialty": Array [
+                  "ecommerce",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Munich",
+                "name": "Infarm",
+                "specialty": Array [
+                  "fintech",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Hamburg",
+                "name": "Junique",
+                "specialty": Array [
+                  "ecommerce",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Munich",
+                "name": "MoBerries",
+                "specialty": Array [
+                  "fintech",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Munich",
+                "name": "Morressier",
+                "specialty": Array [
+                  "fintech",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Frankfurt",
+                "name": "Movinga",
+                "specialty": Array [
+                  "fintech",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Berlin",
+                "name": "N26",
+                "specialty": Array [
+                  "fintech",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Munich",
+                "name": "PEAT",
+                "specialty": Array [
+                  "fintech",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Berlin",
+                "name": "PPRO",
+                "specialty": Array [
+                  "fintech",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Cologne",
+                "name": "Quentic",
+                "specialty": Array [
+                  "ecommerce",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Munich",
+                "name": "ResearchGate",
+                "specialty": Array [
+                  "fintech",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Munich",
+                "name": "Skoove",
+                "specialty": Array [
+                  "fintech",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Munich",
+                "name": "SnapShot",
+                "specialty": Array [
+                  "ecommerce",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Hamburg",
+                "name": "Watchmaster",
+                "specialty": Array [
+                  "ecommerce",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Berlin",
+                "name": "Wundertax",
+                "specialty": Array [
+                  "fintech",
+                  "software",
+                ],
+              },
+              Object {
+                "Logo": "https://source.unsplash.com/random",
+                "city": "Munich",
+                "name": "Zeotap",
+                "specialty": Array [
+                  "ecommerce",
+                  "software",
+                ],
+              },
+            ],
+          },
+          "options": Object {
+            "distance": 100,
+            "findAllMatches": false,
+            "getFn": [Function],
+            "id": null,
+            "includeMatches": false,
+            "includeScore": false,
+            "isCaseSensitive": false,
+            "keys": Array [
+              "name",
+            ],
+            "location": 0,
+            "matchAllTokens": false,
+            "maxPatternLength": 32,
+            "minMatchCharLength": 1,
+            "shouldSort": true,
+            "sortFn": [Function],
+            "threshold": 0,
+            "tokenSeparator": / \\+/g,
+            "tokenize": false,
+            "verbose": false,
+          },
+        }
+      }
+      setResult={[Function]}
+    />
+    <Results
+      selectedCompany={Array []}
+    />
+  </main>
+  <Footer />
+</div>
+`;
